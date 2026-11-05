@@ -18,6 +18,7 @@ I build Excel financial models and SQL analyses and write one-page recommendatio
 - [Pizza Place Project](https://github.com/Saathvik007/pizza-place-acquisition-evaluation): pro forma statements, WACC, CAPM and a DCF for buying a $300,000 pizzeria. Paying with $100,000 cash and a $200,000 loan gave an NPV of $487,258, against $248,906 for paying all cash.
 - [Beyond the Firewall](https://github.com/Saathvik007/cybersecurity-industry-analysis): a five-person team paper on how AI and vendor consolidation are changing the US cybersecurity industry. I wrote the Business Model Canvas and SWOT of Palo Alto Networks.
 - [Strategy briefs on WSJ deals](https://github.com/Saathvik007/wsj-strategy-briefs): Compass buying Anywhere for $1.6 billion, JPMorgan's $10 billion security investment plan and Google's $24 billion AI build-out.
+- [Garmin Venu Care](https://github.com/Saathvik007/garmin-venu-care-brand-extension): my Strategic Marketing midterm proposing a Garmin watch with fall detection and a staffed response plan for older adults who live alone, at $349.99 plus $34.99 a month, with lifetime value at 3.15 times the cost to get a customer.
 
 **Other work**
 
